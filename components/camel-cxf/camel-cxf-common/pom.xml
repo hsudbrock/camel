@@ -23,7 +23,7 @@
     <parent>
         <groupId>org.apache.camel</groupId>
         <artifactId>camel-cxf-parent</artifactId>
-        <version>4.6.0</version>
+        <version>4.6.0-ccffdd027070ff9bac722477be24b9ddbef5223c</version>
     </parent>
 
     <artifactId>camel-cxf-common</artifactId>
